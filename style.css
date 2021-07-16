@@ -1,0 +1,32 @@
+html {
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    height: 5vh;
+    align-items: center;
+    font-size: 35px;
+}
+
+.gm-style {
+    color: black;
+    font-weight: bold;
+}
+
+
+#map {
+    height:80vh;
+}
